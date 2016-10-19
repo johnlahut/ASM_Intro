@@ -1,0 +1,8 @@
+title		Course.asm
+
+;Purpose: Programs gets a six character course designator where the course designator is 
+;         entered in uppercase, (the first three characters), and converts them to their 
+;         lowercase equivalents in a "###"is a good "---" course." message.
+
+
+
